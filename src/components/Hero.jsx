@@ -2,6 +2,7 @@ import { motion, useScroll, useTransform, useSpring, AnimatePresence } from 'fra
 import { FaGithub, FaLinkedin, FaEnvelope, FaArrowRight, FaMapMarkerAlt, FaDownload } from 'react-icons/fa';
 import { SiDjango, SiReact, SiDocker, SiPostgresql } from 'react-icons/si';
 import { useRef, useState, useEffect } from 'react';
+import ProfilePic from '../assets/WailMainPic.jpg';
 
 // ─── Typewriter hook ───────────────────────────────────────────────────────────
 const useTypewriter = (words, speed = 90, pause = 1800) => {
@@ -414,7 +415,7 @@ const Hero = ({ data }) => {
               whileHover={{ scale: 1.03 }}
             >
               <img
-                src="./src/assets/WailMainPic.jpg"
+                src={ProfilePic}
                 alt="Wail Benoulha"
                 className="w-full h-full object-cover object-center"
               />
