@@ -2,7 +2,7 @@ import { motion, useScroll, useTransform, useSpring, AnimatePresence } from 'fra
 import { FaGithub, FaLinkedin, FaEnvelope, FaArrowRight, FaMapMarkerAlt, FaDownload } from 'react-icons/fa';
 import { SiDjango, SiReact, SiDocker, SiPostgresql } from 'react-icons/si';
 import { useRef, useState, useEffect } from 'react';
-import ProfilePic from '../assets/WailMainPic.jpg';
+import ProfilePic from '../assets/WailMainPic.png';
 
 // ─── Typewriter hook ───────────────────────────────────────────────────────────
 const useTypewriter = (words, speed = 90, pause = 1800) => {
