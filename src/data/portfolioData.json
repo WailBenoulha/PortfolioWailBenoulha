@@ -1,0 +1,106 @@
+{
+  "personal_info": {
+    "name": "Wail Benoulha",
+    "title": "Full-Stack Developer | DevOps Engineer",
+    "location": "Setif, Algeria",
+    "summary": "I am a full-stack developer with strong experience in backend systems, SaaS platforms, DevOps engineering, and machine learning. I have built multiple real-world products including e-commerce SaaS platforms, educational AI systems, university admission platforms, and startup applications. My focus is on building scalable, efficient, and user-centered software solutions while continuously improving my skills in cloud computing, distributed systems, and artificial intelligence."
+  },
+  "education": [
+    {
+      "degree": "Master in Data Science and Intelligent Systems",
+      "institution": "University of Constantine 2 Abdelhamid Mehri",
+      "status": "Completed"
+    },
+    {
+      "degree": "Bachelor in Software Engineering",
+      "institution": "University of Constantine 2 Abdelhamid Mehri",
+      "status": "Completed"
+    }
+  ],
+  "skills": {
+    "backend": ["Django", "Django REST Framework", "Express.js", "REST API Design", "java", "WebSockets", "Authentication & Authorization"],
+    "frontend": ["React.js", "JavaScript", "HTML", "CSS","tailwindcss"],
+    "databases": ["PostgreSQL", "MySQL"],
+    "devops": ["Docker", "GitHub Actions", "AWS (EC2, ECS, ECR, Academy)"],
+    "machine_learning": ["Supervised Learning", "CNN", "Scikit-learn", "Data Preprocessing", "Feature Engineering"],
+    "tools": ["Git", "Linux", "Power BI", "Hadoop"]
+  },
+  "projects": [
+    {
+      "name": "Qarini",
+      "type": "EdTech SaaS Platform",
+      "description": "Qarini is an AI-powered educational platform designed to modernize the learning and evaluation process in private schools. It enables teachers to automatically generate quizzes and assessments using AI, instantly correct student answers, and track academic progress through advanced analytics dashboards.",
+      "stack": ["Django", "React", "AI Integration"],
+      "role": "Full-Stack Developer",
+      "color": "from-blue-500 to-cyan-400"
+    },
+    {
+      "name": "Italyst",
+      "type": "University Admission Platform",
+      "description": "Italyst is a centralized platform built to simplify the process of applying to Italian universities for international students. It aggregates structured and verified data about universities, including admission requirements, tuition fees, available programs, deadlines, and scholarship opportunities.",
+      "stack": ["React", "JavaScript", "tailwindcss"],
+      "role": "Frontend Developer",
+      "color": "from-purple-500 to-pink-400"
+    },
+    {
+      "name": "ArtisanConnect",
+      "type": "Service Marketplace & Project Management System",
+      "description": "ArtisanConnect is a digital platform that connects clients with professional artisans in construction and home improvement industries. It allows users to manage complete service workflows including painting, electrical work, flooring, and renovation projects.",
+      "stack": ["Django", "DRF", "PostgreSQL", "AWS EC2", "Redis","Docker", "Ml"],
+      "role": "Backend Developer",
+      "color": "from-orange-500 to-yellow-400"
+    },
+    {
+      "name": "Bazario",
+      "type": "SaaS E-Commerce Builder",
+      "description": "Bazario is a multi-tenant SaaS platform that allows users to create and manage fully functional online stores without requiring any coding knowledge. Users can register, create a store, customize its design, and manage products, orders, and payments.",
+      "stack": ["React", "Node.js", "SQLite", "Django", "DRF"],
+      "role": "Full-Stack Developer",
+      "color": "from-green-500 to-emerald-400"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Centre des Impôts Sétif",
+      "role": "IT Network Intern",
+      "period": "March 2024 - April 2024",
+      "type": "Internship",
+      "description": "Hands-on exposure to enterprise-level IT infrastructure. Analyzed network systems, fiber optic connectivity, and Cisco networking equipment such as routers, switches, and patch panels. Explored server infrastructure and virtualization technologies."
+    },
+    {
+      "company": "DevFest Hackathon 2024",
+      "role": "Backend Developer",
+      "period": "December 2024",
+      "type": "Hackathon",
+      "description": "Participated as backend developer in a competitive team building an HR management system. Designed backend architecture, implemented API endpoints, and ensured system stability. Won first place in the competition."
+    },
+    {
+      "company": "BookingHero (Denmark Startup)",
+      "role": "Full-Stack Developer Intern",
+      "period": "February 2025 - May 2025",
+      "type": "Internship",
+      "description": "Developed frontend features using React.js and implemented backend services using Express.js. Managed MySQL databases for efficient data storage. Contributed to a real-world SaaS product in an international environment."
+    },
+    {
+      "company": "Wissal Group",
+      "role": "DevOps Engineer Intern",
+      "period": "September 2025 - October 2025",
+      "type": "Internship",
+      "description": "Worked on banking-related project for El Salam Bank. Containerized applications using Docker and implemented CI/CD pipelines using GitHub Actions. Strengthened understanding of DevOps practices and system reliability."
+    }
+  ],
+  "certifications": [
+    "AWS Academy Cloud Foundations",
+    "AWS Academy Cloud Developing",
+    "Supervised Machine Learning: Regression and Classification - DeepLearning.AI",
+    "Advanced Learning Algorithms - Coursera"
+  ],
+  "interests": [
+    "Cloud Computing",
+    "Artificial Intelligence",
+    "SaaS Architecture",
+    "Startup Development",
+    "Distributed Systems",
+    "System Design"
+  ]
+}
